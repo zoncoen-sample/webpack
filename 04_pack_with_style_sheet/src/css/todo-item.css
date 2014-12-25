@@ -1,0 +1,9 @@
+.todo-list__item {
+    list-style-type: none;
+}
+
+.todo-list__item--checked {
+    color: #999999;
+    text-decoration: line-through;
+}
+
